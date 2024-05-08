@@ -1,16 +1,16 @@
 h1
       {
-          font-size: 40px;
+          font-size: 45px;
           color: black;
           text-align: center;
           background-size: 100%;
       }
 h2
       { 
-          font-size: 32px;
+          font-size: 35px;
           color: red;
           text-align: left;
-          background-color: skyblue;
+          background-color: blue;
           background-size: 100%;
       }
 s
